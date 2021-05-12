@@ -11,6 +11,8 @@
 - [gopass](https://www.gopass.pw/) - terminal-based password manager using git
     - [Chrome Extension](https://chrome.google.com/webstore/detail/gopass-bridge/kkhfnlkhiapbiehimabddjbimfaijdhk)
     - [gopassbridge](https://github.com/gopasspw/gopassbridge)
+    - [Android Client](https://play.google.com/store/apps/details?id=dev.msfjarvis.aps)
+    - [Desktop Client](https://github.com/codecentric/gopass-ui)
 - [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - enhanced version of grep
 - [tilix](https://gnunn1.github.io/tilix-web/) - tiling terminal
 - [tldr](https://tldr.sh/) - man pages for dummies
@@ -27,6 +29,7 @@
 ## Windows tools
 
 - [ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - run Manjaro in WSL2
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) - linux like terminal
 - [chocolatey](https://chocolatey.org/) - package manager for Windows
 
 ## web tools
