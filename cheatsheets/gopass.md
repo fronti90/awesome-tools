@@ -60,6 +60,12 @@ gopass insert my-company/willy@email.com
 
 ```bash
 gopass generate my-company/anothername@rmail.com
+````
+
+### Store binary file
+
+```bash
+gopass fscopy /some/file.jpg some/secret
 ```
 
 ### Search secrets
