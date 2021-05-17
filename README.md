@@ -9,10 +9,10 @@
 - [exa](https://github.com/ogham/exa) - modern version of ls
 - [fd](https://github.com/sharkdp/fd) - simple alternative to find
 - [gopass](https://www.gopass.pw/) - terminal-based password manager using git
-    - [Chrome Extension](https://chrome.google.com/webstore/detail/gopass-bridge/kkhfnlkhiapbiehimabddjbimfaijdhk)
-    - [gopassbridge](https://github.com/gopasspw/gopassbridge)
+    - [Chrome Extension](https://chrome.google.com/webstore/detail/browserpass/naepdomgkenhinolocfifgehidddafch)
+    - [browserpass-extension](https://github.com/browserpass/browserpass-extension)
+    - [browserpass-native](https://github.com/browserpass/browserpass-native)
     - [Android Client](https://play.google.com/store/apps/details?id=dev.msfjarvis.aps)
-    - [Desktop Client](https://github.com/codecentric/gopass-ui)
 - [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - enhanced version of grep
 - [tilix](https://gnunn1.github.io/tilix-web/) - tiling terminal
 - [tldr](https://tldr.sh/) - man pages for dummies
